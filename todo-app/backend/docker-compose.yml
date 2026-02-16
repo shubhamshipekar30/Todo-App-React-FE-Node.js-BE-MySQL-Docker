@@ -3,4 +3,4 @@ services:
     build: .
     ports: 
       - "3001:3001"
-     container_name: todo-app-backend
+    container_name: todo-app-backend 
